@@ -23,7 +23,7 @@ This project uses Python to model personal finance and investment growth under d
 - Interpreting longterm investment outcomes
 ## Project File
 The complete project is available in: 
-['Personal_Finance_&_Investment_Modelling_In_Python.ipynb'](./Personal_Finance_%26_Investment_Modelling_In_Python.ipynb)
+['Personal_Finance_&_Investment_Modelling_in_Python.ipynb'](./Personal_Finance_%26_Investment_Modelling_in_Python.ipynb)
 ## How to Run the Project
 1. Open the'.ipynb' notebook
 2. Click the **Open in Colab** button
